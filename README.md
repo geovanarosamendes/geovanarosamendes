@@ -5,11 +5,15 @@ Desenvolvedora Full Stack em formação, com foco em C# Backend, Frontend modern
 Gosto de transformar ideias, sistemas e dados em soluções práticas para pessoas e negócios.
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=geovanarosamendes&show_icons=true&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas  
+🎓  Análise e Desenvolvimento de Sistemas  
 💻 Full Stack: C#, ASP.NET Core, React, Next.js e Node.js  
 📊 Dados & BI: SQL, Power BI, DAX, ETL e modelagem de dados  
 🧠 Experiência com backend, frontend moderno e análise de dados  
@@ -20,7 +24,7 @@ Gosto de transformar ideias, sistemas e dados em soluções práticas para pesso
 ## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanarosamendes&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=geovanarosamendes&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -30,13 +34,11 @@ Gosto de transformar ideias, sistemas e dados em soluções práticas para pesso
 ### 🔹 Backend & Dados
 
 <p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
 </p>
 
 ---
@@ -44,7 +46,6 @@ Gosto de transformar ideias, sistemas e dados em soluções práticas para pesso
 ### 🔹 Frontend
 
 <p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
@@ -52,18 +53,23 @@ Gosto de transformar ideias, sistemas e dados em soluções práticas para pesso
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-
+<img src="https://mui.com/static/logo.png" width="45"/>
 </p>
 
 ---
 
-### 🔹 UI / Ferramentas
+### 🔹 BI, Automação & Ferramentas
 
 <p>
-
-<img src="https://mui.com/static/logo.png" width="45"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
 
+<p>
+🔸 n8n — conhecimento básico
 </p>
 
 ---
