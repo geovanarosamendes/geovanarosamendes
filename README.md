@@ -6,9 +6,14 @@ Transformo ideias, sistemas e dados em soluções práticas para pessoas e negó
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/geovanarosamendes?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/geovanarosamendes?style=for-the-badge"/>
-<img src="https://img.shields.io/github/languages/top/geovanarosamendes/geovanarosamendes?style=for-the-badge"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/geovana-mendes-456a97242">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:geovanamdeveloper@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -66,18 +71,4 @@ Transformo ideias, sistemas e dados em soluções práticas para pessoas e negó
 
 ---
 
-## 📫 Contato
-
-<p align="center">
-<a href="https://www.linkedin.com/in/geovana-mendes-456a97242">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:geovanamdeveloper@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-✨ *Perfil em construção constante — sempre buscando crescer tecnicamente e gerar valor com tecnologia.*
+✨ *Perfil em construção constante >>> sempre buscando crescer tecnicamente e gerar valor com tecnologia.*
